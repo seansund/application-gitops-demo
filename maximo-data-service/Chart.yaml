@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: maximo-data-service
+description: Chart to configure ArgoCD with the maximo-data-service project and its applications
